@@ -11,7 +11,7 @@ Each of these has different focuses and goals.a
 Complete pattern list shown below:
 
 **Creational**:
-          - Factory
+          	  - [Factory](patterns/src/main/java/creational/factory)
 		  - Abstract Factory
 		  - Builder
 		  - Prototype
